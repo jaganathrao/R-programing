@@ -1,0 +1,8 @@
+
+name <- readline(prompt = "jagan: ")
+age <- as.integer(readline(prompt = "19: "))
+
+cat("jagan:", name, "\n")
+cat("19:", age, "\n")
+
+cat("R Version:", R.version.string, "\n")
